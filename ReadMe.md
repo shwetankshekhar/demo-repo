@@ -1,2 +1,2 @@
 # hash is used for header
-Some normal lines
+This is a normal sentence.
